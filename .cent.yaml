@@ -11,11 +11,13 @@ exclude-files:
 
 # Add github urls
 community-templates:
+# From Here
   - https://github.com/ExpLangcn/NucleiTP
   - https://github.com/Linuxinet/mobile-nuclei-templates
   - https://github.com/abbycantcode/collection-of-templates
   - https://github.com/thanhnx9/nuclei-templates-cutomer
   - https://github.com/trungkay2/private_templates.git
+  # Till here added by me, Whenvere you use it get the updated .cent.yaml file from the repo and add these urls to them 
   - https://github.com/0x727/ObserverWard
   - https://github.com/0xAwali/Blind-SSRF
   - https://github.com/0xAwali/Virtual-Host
